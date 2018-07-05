@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "59f8a05e-d991-4f8c-89a4-08af66201cf2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Serbia_and_Montenegro": {
+      "ver": "1.0.3",
+      "uuid": "cff8c522-132e-408c-b860-3fec940e2970",
+      "rawTextureUuid": "59f8a05e-d991-4f8c-89a4-08af66201cf2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 116,
+      "rawWidth": 235,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

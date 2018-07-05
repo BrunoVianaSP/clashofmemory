@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1fe2f40e-1939-4dc1-8d9c-bc7dd77a4471",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "North_Korea": {
+      "ver": "1.0.3",
+      "uuid": "6b67ed41-33e8-4060-80a7-b7368fd955e0",
+      "rawTextureUuid": "1fe2f40e-1939-4dc1-8d9c-bc7dd77a4471",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 116,
+      "rawWidth": 236,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "505c42f2-aee7-4a98-9aaf-a2acae23ed76",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Togo": {
+      "ver": "1.0.3",
+      "uuid": "838c2f6c-843b-48e3-ab37-3857c9b9a75a",
+      "rawTextureUuid": "505c42f2-aee7-4a98-9aaf-a2acae23ed76",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 140,
+      "rawWidth": 235,
+      "rawHeight": 140,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

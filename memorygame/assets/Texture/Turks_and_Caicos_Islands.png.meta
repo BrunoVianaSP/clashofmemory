@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "104d3cae-4555-4b02-96cc-c03399497783",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Turks_and_Caicos_Islands": {
+      "ver": "1.0.3",
+      "uuid": "e677f1b1-37de-42f4-ab21-bd2266b5a9e8",
+      "rawTextureUuid": "104d3cae-4555-4b02-96cc-c03399497783",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 115,
+      "rawWidth": 235,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

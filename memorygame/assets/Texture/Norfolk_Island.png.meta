@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "93539333-1388-43fa-ba09-36394be3bf76",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Norfolk_Island": {
+      "ver": "1.0.3",
+      "uuid": "1e1a2788-33d4-4801-94d4-a181a6bda5e0",
+      "rawTextureUuid": "93539333-1388-43fa-ba09-36394be3bf76",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 115,
+      "rawWidth": 236,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

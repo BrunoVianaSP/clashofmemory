@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0eecf5fc-28d2-4764-ac36-6fe5b17cc35e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Argentina": {
+      "ver": "1.0.3",
+      "uuid": "ba70de4c-0027-4366-8783-ca559ab8134f",
+      "rawTextureUuid": "0eecf5fc-28d2-4764-ac36-6fe5b17cc35e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 114,
+      "rawWidth": 236,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

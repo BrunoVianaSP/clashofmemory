@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "691e0c2c-248d-4165-af87-a1699614ea3a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Tajikistan": {
+      "ver": "1.0.3",
+      "uuid": "77b588c7-218b-4fbf-89e4-744f52a279e0",
+      "rawTextureUuid": "691e0c2c-248d-4165-af87-a1699614ea3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 116,
+      "rawWidth": 235,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

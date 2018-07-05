@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e11bb219-f687-4fcc-b4e2-3d0a363399b4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Djibouti": {
+      "ver": "1.0.3",
+      "uuid": "a97c7554-c0a0-49be-98c6-6a88d77c43c6",
+      "rawTextureUuid": "e11bb219-f687-4fcc-b4e2-3d0a363399b4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 137,
+      "rawWidth": 235,
+      "rawHeight": 137,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

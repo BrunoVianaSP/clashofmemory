@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ecd4934f-dc4d-421d-ae00-ad5cc4e5aa16",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Thailand": {
+      "ver": "1.0.3",
+      "uuid": "9a595fb5-1d77-4cca-a2e7-645b807374b1",
+      "rawTextureUuid": "ecd4934f-dc4d-421d-ae00-ad5cc4e5aa16",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 155,
+      "rawWidth": 235,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

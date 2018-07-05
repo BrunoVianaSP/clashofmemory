@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c5f8af57-e315-4256-8103-ffa9194822c9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Democratic_Republic_of_the_Congo": {
+      "ver": "1.0.3",
+      "uuid": "31f96c72-db14-42f5-9a0a-601f32ebf057",
+      "rawTextureUuid": "c5f8af57-e315-4256-8103-ffa9194822c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 156,
+      "rawWidth": 236,
+      "rawHeight": 156,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

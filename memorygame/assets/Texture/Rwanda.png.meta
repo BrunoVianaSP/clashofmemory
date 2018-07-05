@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "da86b9c4-58ed-4c7a-83d3-884517a8f5c9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Rwanda": {
+      "ver": "1.0.3",
+      "uuid": "fd4831cc-c561-429f-b4b6-53a9132ed39d",
+      "rawTextureUuid": "da86b9c4-58ed-4c7a-83d3-884517a8f5c9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 151,
+      "rawWidth": 236,
+      "rawHeight": 151,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

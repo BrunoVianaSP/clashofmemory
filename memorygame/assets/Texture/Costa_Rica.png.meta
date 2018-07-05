@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b28af209-27bf-42ce-ad5a-119647c9aa34",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Costa_Rica": {
+      "ver": "1.0.3",
+      "uuid": "8fc7c816-c0df-4ab9-8128-5000922b2d7c",
+      "rawTextureUuid": "b28af209-27bf-42ce-ad5a-119647c9aa34",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 139,
+      "rawWidth": 235,
+      "rawHeight": 139,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

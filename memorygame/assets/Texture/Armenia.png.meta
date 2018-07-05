@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "caa111d8-62fb-462c-8d5f-a593c4cec42d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Armenia": {
+      "ver": "1.0.3",
+      "uuid": "b43613c9-a825-414e-b22a-37face258e81",
+      "rawTextureUuid": "caa111d8-62fb-462c-8d5f-a593c4cec42d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 115,
+      "rawWidth": 236,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

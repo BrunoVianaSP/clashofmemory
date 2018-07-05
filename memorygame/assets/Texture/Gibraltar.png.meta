@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "35b3400c-a596-4611-bbf2-becf3f2f061b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Gibraltar": {
+      "ver": "1.0.3",
+      "uuid": "9968f428-bf7b-41e2-a365-4e8d55f24d07",
+      "rawTextureUuid": "35b3400c-a596-4611-bbf2-becf3f2f061b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 116,
+      "rawWidth": 235,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

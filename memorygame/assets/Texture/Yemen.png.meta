@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6eeb1f29-f090-477b-b781-7b1edf2ffd41",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Yemen": {
+      "ver": "1.0.3",
+      "uuid": "d51cf8f3-b4df-47da-8053-3de1ab0f2da1",
+      "rawTextureUuid": "6eeb1f29-f090-477b-b781-7b1edf2ffd41",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 234,
+      "height": 154,
+      "rawWidth": 234,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1300e169-bcdf-45cd-b2bc-6c8ff768a7fe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Estonia": {
+      "ver": "1.0.3",
+      "uuid": "584d4874-6009-4513-a765-63bb84c5112a",
+      "rawTextureUuid": "1300e169-bcdf-45cd-b2bc-6c8ff768a7fe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 155,
+      "rawWidth": 235,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

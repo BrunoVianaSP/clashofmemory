@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2e30eb95-1735-48ed-be7f-756220d3848b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Cameroon": {
+      "ver": "1.0.3",
+      "uuid": "1ad5411f-17a2-48cd-bc29-d9b64cfb9bab",
+      "rawTextureUuid": "2e30eb95-1735-48ed-be7f-756220d3848b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 151,
+      "rawWidth": 236,
+      "rawHeight": 151,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

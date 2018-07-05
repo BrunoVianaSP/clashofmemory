@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b0da3c51-ea4f-4e3e-a306-9482ed115ff9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Uzbekistan": {
+      "ver": "1.0.3",
+      "uuid": "544c8a9f-08eb-45a2-af9e-1267d980852d",
+      "rawTextureUuid": "b0da3c51-ea4f-4e3e-a306-9482ed115ff9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 116,
+      "rawWidth": 235,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

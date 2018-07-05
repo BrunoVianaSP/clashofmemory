@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1b577088-d34b-4476-ab85-9bb4e3e05ed9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Greenland": {
+      "ver": "1.0.3",
+      "uuid": "6f157c02-c9b9-4c88-a627-200935382c58",
+      "rawTextureUuid": "1b577088-d34b-4476-ab85-9bb4e3e05ed9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 158,
+      "rawWidth": 235,
+      "rawHeight": 158,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

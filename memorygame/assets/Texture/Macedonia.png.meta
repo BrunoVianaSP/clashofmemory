@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "88794129-5aca-444b-aa15-bc6b5145a256",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Macedonia": {
+      "ver": "1.0.3",
+      "uuid": "846d8382-5640-4017-b673-95da242eae1b",
+      "rawTextureUuid": "88794129-5aca-444b-aa15-bc6b5145a256",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 115,
+      "rawWidth": 235,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

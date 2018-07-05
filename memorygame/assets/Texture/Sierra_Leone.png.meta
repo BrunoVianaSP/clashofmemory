@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "98991ae2-e12a-45e1-af68-8f57ce3c45bc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Sierra_Leone": {
+      "ver": "1.0.3",
+      "uuid": "b8a794f4-6673-47d5-80e0-5f4498f61e0a",
+      "rawTextureUuid": "98991ae2-e12a-45e1-af68-8f57ce3c45bc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 154,
+      "rawWidth": 235,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

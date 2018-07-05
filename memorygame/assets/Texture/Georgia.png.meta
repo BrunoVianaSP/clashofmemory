@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "808c24ab-36c1-4047-9e8a-aeabe4309807",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Georgia": {
+      "ver": "1.0.3",
+      "uuid": "c232738f-0dac-476e-a157-8baa8bc0d983",
+      "rawTextureUuid": "808c24ab-36c1-4047-9e8a-aeabe4309807",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 175,
+      "rawWidth": 235,
+      "rawHeight": 175,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

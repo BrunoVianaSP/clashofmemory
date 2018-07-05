@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0419b524-e8bd-459f-8ba9-7c5d94649b19",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Gabon": {
+      "ver": "1.0.3",
+      "uuid": "a9e6ac38-19fa-4f69-bf62-422603c473b0",
+      "rawTextureUuid": "0419b524-e8bd-459f-8ba9-7c5d94649b19",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 164,
+      "rawWidth": 235,
+      "rawHeight": 164,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

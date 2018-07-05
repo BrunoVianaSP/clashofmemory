@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "778fb3b3-6501-4a80-af60-0ddea5672840",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Christmas_Island": {
+      "ver": "1.0.3",
+      "uuid": "d69f737f-5558-4a80-9e68-5c840e3f2c44",
+      "rawTextureUuid": "778fb3b3-6501-4a80-af60-0ddea5672840",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 117,
+      "rawWidth": 236,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

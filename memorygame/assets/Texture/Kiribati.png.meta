@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "362302f7-49fe-4ab4-9622-c02473c72faf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Kiribati": {
+      "ver": "1.0.3",
+      "uuid": "fb524da0-0dc4-416c-bb2b-adb5cd6dc5d5",
+      "rawTextureUuid": "362302f7-49fe-4ab4-9622-c02473c72faf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 136,
+      "rawWidth": 235,
+      "rawHeight": 136,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

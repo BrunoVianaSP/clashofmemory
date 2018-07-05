@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1cbce9c5-3b57-4185-82ce-5551fa886b9a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Netherlands_Antilles": {
+      "ver": "1.0.3",
+      "uuid": "6cfcb003-3944-4c68-8c6c-d2fc3493d033",
+      "rawTextureUuid": "1cbce9c5-3b57-4185-82ce-5551fa886b9a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 155,
+      "rawWidth": 235,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

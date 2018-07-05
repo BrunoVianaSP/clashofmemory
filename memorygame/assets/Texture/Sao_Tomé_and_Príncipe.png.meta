@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3842e942-ced1-499d-848d-54e4ffdc6651",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Sao_Tomé_and_Príncipe": {
+      "ver": "1.0.3",
+      "uuid": "046b103f-6007-45d3-a838-e565231d7d26",
+      "rawTextureUuid": "3842e942-ced1-499d-848d-54e4ffdc6651",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 115,
+      "rawWidth": 235,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

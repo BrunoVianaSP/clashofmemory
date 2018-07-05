@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ea9c16b7-1d29-4f03-a64b-2e769decaae6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Kenya": {
+      "ver": "1.0.3",
+      "uuid": "eb2431cf-27a4-4f3c-8a4b-4899c5daa357",
+      "rawTextureUuid": "ea9c16b7-1d29-4f03-a64b-2e769decaae6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 155,
+      "rawWidth": 236,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

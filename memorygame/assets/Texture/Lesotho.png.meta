@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6190922e-139f-4a31-beb1-2ec68b9ee159",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Lesotho": {
+      "ver": "1.0.3",
+      "uuid": "16915a6e-217b-4fc2-8495-bba08751f1a6",
+      "rawTextureUuid": "6190922e-139f-4a31-beb1-2ec68b9ee159",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 156,
+      "rawWidth": 235,
+      "rawHeight": 156,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

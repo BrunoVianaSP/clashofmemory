@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1ae1d9ef-92b1-45f9-b751-b9c41eacb26e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Barbados": {
+      "ver": "1.0.3",
+      "uuid": "03093867-d917-46b1-855d-545ea042ae88",
+      "rawTextureUuid": "1ae1d9ef-92b1-45f9-b751-b9c41eacb26e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 154,
+      "rawWidth": 235,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

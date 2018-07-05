@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9ab4e8d2-29aa-4527-949e-2afc00788d58",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Côte_d'Ivoire": {
+      "ver": "1.0.3",
+      "uuid": "e7b490a5-5563-4c92-8f71-56c7016c6f09",
+      "rawTextureUuid": "9ab4e8d2-29aa-4527-949e-2afc00788d58",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 156,
+      "rawWidth": 235,
+      "rawHeight": 156,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

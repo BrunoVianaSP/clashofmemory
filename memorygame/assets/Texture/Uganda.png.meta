@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "641e1428-fe73-4f27-b1b7-af199112d1a3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Uganda": {
+      "ver": "1.0.3",
+      "uuid": "6543569f-54f0-434f-8bf1-9d757078a9e7",
+      "rawTextureUuid": "641e1428-fe73-4f27-b1b7-af199112d1a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 155,
+      "rawWidth": 235,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3bbd7575-73e2-4b19-a6e1-0845803bc9b7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Russian_Federation": {
+      "ver": "1.0.3",
+      "uuid": "6bfbb927-8cb4-48e2-8f26-061e4c02e813",
+      "rawTextureUuid": "3bbd7575-73e2-4b19-a6e1-0845803bc9b7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 153,
+      "rawWidth": 235,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

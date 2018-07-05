@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "06cd64fd-1449-4939-a6b2-597c26041b92",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Venezuela": {
+      "ver": "1.0.3",
+      "uuid": "a8d779f9-0056-488e-95a9-243d0533c00d",
+      "rawTextureUuid": "06cd64fd-1449-4939-a6b2-597c26041b92",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 155,
+      "rawWidth": 235,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

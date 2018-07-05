@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "579fc4d8-b964-4770-aa51-3311ab437d44",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Moldova": {
+      "ver": "1.0.3",
+      "uuid": "0e2ec6c7-045d-4607-bba3-5c2163a983d7",
+      "rawTextureUuid": "579fc4d8-b964-4770-aa51-3311ab437d44",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 114,
+      "rawWidth": 236,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

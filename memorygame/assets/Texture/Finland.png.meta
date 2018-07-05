@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6890f9c9-b8d1-4b94-b5e2-2dcc03a45a0c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Finland": {
+      "ver": "1.0.3",
+      "uuid": "7a42a27f-562a-4f8b-be2c-543f5789709c",
+      "rawTextureUuid": "6890f9c9-b8d1-4b94-b5e2-2dcc03a45a0c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 139,
+      "rawWidth": 235,
+      "rawHeight": 139,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

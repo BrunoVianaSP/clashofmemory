@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "265e225d-d591-4581-aaf5-a5e451ead6c8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Ireland": {
+      "ver": "1.0.3",
+      "uuid": "a74ddab3-8367-4a34-b6f5-a422c6287896",
+      "rawTextureUuid": "265e225d-d591-4581-aaf5-a5e451ead6c8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 116,
+      "rawWidth": 235,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

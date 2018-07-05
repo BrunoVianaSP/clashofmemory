@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "72801cca-4093-4cce-b61d-245258f3cf91",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Saint_Vicent_and_the_Grenadines": {
+      "ver": "1.0.3",
+      "uuid": "bf7f0012-6a17-4909-8978-560660c3fa1e",
+      "rawTextureUuid": "72801cca-4093-4cce-b61d-245258f3cf91",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 154,
+      "rawWidth": 236,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

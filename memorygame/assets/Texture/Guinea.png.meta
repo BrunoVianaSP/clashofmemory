@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "31e80cb4-e546-498a-a579-1c3b5e18cb2a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Guinea": {
+      "ver": "1.0.3",
+      "uuid": "d95fa554-5eb1-4b69-ba13-0d29f4e1058b",
+      "rawTextureUuid": "31e80cb4-e546-498a-a579-1c3b5e18cb2a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 154,
+      "rawWidth": 236,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

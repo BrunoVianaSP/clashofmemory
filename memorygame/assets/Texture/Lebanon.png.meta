@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "44d52afa-f611-4041-a821-c5bbdd76aabd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Lebanon": {
+      "ver": "1.0.3",
+      "uuid": "e37a5080-5ebb-4e4e-ac91-c87f65a11818",
+      "rawTextureUuid": "44d52afa-f611-4041-a821-c5bbdd76aabd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 154,
+      "rawWidth": 235,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

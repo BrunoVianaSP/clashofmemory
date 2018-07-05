@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9618c49c-f1b6-4fa9-9219-3f8e4b38621a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "San_Marino": {
+      "ver": "1.0.3",
+      "uuid": "f0f13116-4d18-4cb0-b075-b2739995e47c",
+      "rawTextureUuid": "9618c49c-f1b6-4fa9-9219-3f8e4b38621a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 175,
+      "rawWidth": 235,
+      "rawHeight": 175,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

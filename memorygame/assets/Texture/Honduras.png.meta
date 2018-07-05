@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c7efcfb6-f757-4701-89b7-0e96211ec505",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Honduras": {
+      "ver": "1.0.3",
+      "uuid": "d2f5c132-0b0b-4aea-89a8-fe80abca7c73",
+      "rawTextureUuid": "c7efcfb6-f757-4701-89b7-0e96211ec505",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 139,
+      "rawWidth": 235,
+      "rawHeight": 139,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

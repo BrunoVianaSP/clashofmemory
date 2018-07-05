@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9e14af61-a194-4ae9-8bc0-02c9c9c5d2a8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Morocco": {
+      "ver": "1.0.3",
+      "uuid": "c96b136f-158a-48a3-b237-560cc8f535b5",
+      "rawTextureUuid": "9e14af61-a194-4ae9-8bc0-02c9c9c5d2a8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 237,
+      "height": 156,
+      "rawWidth": 237,
+      "rawHeight": 156,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

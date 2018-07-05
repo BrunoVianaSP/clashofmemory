@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2600def0-7da5-4463-9be8-6ef9058375f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Portugal": {
+      "ver": "1.0.3",
+      "uuid": "d420f35d-f179-41c2-9fe6-8e331954e207",
+      "rawTextureUuid": "2600def0-7da5-4463-9be8-6ef9058375f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 156,
+      "rawWidth": 236,
+      "rawHeight": 156,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

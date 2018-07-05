@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7fa36768-8505-4898-bf83-254d26aef2e5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Oman": {
+      "ver": "1.0.3",
+      "uuid": "15a17c59-3503-4091-ae51-b53eeb980a6a",
+      "rawTextureUuid": "7fa36768-8505-4898-bf83-254d26aef2e5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 116,
+      "rawWidth": 235,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

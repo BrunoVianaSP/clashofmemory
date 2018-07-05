@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "966b7bed-4244-4cc1-853a-32761b683388",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Colombia": {
+      "ver": "1.0.3",
+      "uuid": "361d6c6f-9d02-447a-a986-3b0be3c90a48",
+      "rawTextureUuid": "966b7bed-4244-4cc1-853a-32761b683388",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 152,
+      "rawWidth": 236,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b73c0f94-6013-43cb-ae60-56b3bae62ce8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Hungary": {
+      "ver": "1.0.3",
+      "uuid": "685f54d5-d627-401f-9762-b8a5eaec3f18",
+      "rawTextureUuid": "b73c0f94-6013-43cb-ae60-56b3bae62ce8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 154,
+      "rawWidth": 235,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

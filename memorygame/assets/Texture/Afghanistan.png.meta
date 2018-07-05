@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cb2e99b0-b67f-450d-8a36-15d36666efd8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Afghanistan": {
+      "ver": "1.0.3",
+      "uuid": "b9de19ad-747c-4efe-bf43-75c14c0899d7",
+      "rawTextureUuid": "cb2e99b0-b67f-450d-8a36-15d36666efd8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 116,
+      "rawWidth": 235,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

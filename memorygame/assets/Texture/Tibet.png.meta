@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1408a326-07c0-4af2-a069-d3dacf8ab115",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Tibet": {
+      "ver": "1.0.3",
+      "uuid": "88a18d5e-a38c-4b00-ae97-b293315bd8aa",
+      "rawTextureUuid": "1408a326-07c0-4af2-a069-d3dacf8ab115",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 233,
+      "height": 152,
+      "rawWidth": 233,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

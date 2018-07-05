@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "94e68c3f-612f-46e2-a106-2e1127e31c5e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Antigua_and_Barbuda": {
+      "ver": "1.0.3",
+      "uuid": "6e717b5b-df6e-462c-92d7-c50d574691ab",
+      "rawTextureUuid": "94e68c3f-612f-46e2-a106-2e1127e31c5e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 154,
+      "rawWidth": 236,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

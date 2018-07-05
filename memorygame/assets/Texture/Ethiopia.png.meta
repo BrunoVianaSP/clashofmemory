@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fd5d8606-84b9-4464-88c4-c4f0d3fdd16e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Ethiopia": {
+      "ver": "1.0.3",
+      "uuid": "3887b48b-15d7-4584-9b38-7ede57308e42",
+      "rawTextureUuid": "fd5d8606-84b9-4464-88c4-c4f0d3fdd16e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 116,
+      "rawWidth": 236,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

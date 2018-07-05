@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7f920a96-9178-451c-a5dd-299bd063cef1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Nicaragua": {
+      "ver": "1.0.3",
+      "uuid": "40b39b20-1627-4914-b682-6a4fe183313d",
+      "rawTextureUuid": "7f920a96-9178-451c-a5dd-299bd063cef1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 139,
+      "rawWidth": 235,
+      "rawHeight": 139,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

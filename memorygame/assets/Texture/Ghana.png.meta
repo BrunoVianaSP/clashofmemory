@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1c21c9c1-929b-4561-bc47-1eca6306029a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Ghana": {
+      "ver": "1.0.3",
+      "uuid": "41916ad1-fa06-4fc4-b09e-936b6967cbb4",
+      "rawTextureUuid": "1c21c9c1-929b-4561-bc47-1eca6306029a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 154,
+      "rawWidth": 235,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

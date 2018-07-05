@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "82ea70e9-fccb-4248-9c46-73c3ae9d3e3f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Falkland_Islands": {
+      "ver": "1.0.3",
+      "uuid": "f54edcd5-0bc2-411b-8fcd-b07b71fb60ed",
+      "rawTextureUuid": "82ea70e9-fccb-4248-9c46-73c3ae9d3e3f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 115,
+      "rawWidth": 236,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

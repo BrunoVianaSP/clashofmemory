@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b94c3e2b-f34c-40b2-804d-ed968f947eba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "American_Samoa": {
+      "ver": "1.0.3",
+      "uuid": "84561cf3-e607-489c-b961-41d4d74755fc",
+      "rawTextureUuid": "b94c3e2b-f34c-40b2-804d-ed968f947eba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 115,
+      "rawWidth": 236,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

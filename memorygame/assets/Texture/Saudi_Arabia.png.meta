@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cd719ccf-a4b1-4243-8bc5-55cde8656a1c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Saudi_Arabia": {
+      "ver": "1.0.3",
+      "uuid": "821d7d20-e44d-444a-8f34-02005e4a7c6e",
+      "rawTextureUuid": "cd719ccf-a4b1-4243-8bc5-55cde8656a1c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 155,
+      "rawWidth": 235,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

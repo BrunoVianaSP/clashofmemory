@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4004d467-34ac-4a75-85a2-1921d0c0c6a2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Macao": {
+      "ver": "1.0.3",
+      "uuid": "934c4f01-5c61-4a3c-ab4d-d6b6ecb328d8",
+      "rawTextureUuid": "4004d467-34ac-4a75-85a2-1921d0c0c6a2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 154,
+      "rawWidth": 236,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

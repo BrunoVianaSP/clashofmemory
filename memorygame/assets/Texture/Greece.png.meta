@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e02c137a-7017-4628-8a1f-1b1e5940b763",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Greece": {
+      "ver": "1.0.3",
+      "uuid": "838d3476-590b-48cc-8cab-f26691b89b08",
+      "rawTextureUuid": "e02c137a-7017-4628-8a1f-1b1e5940b763",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 155,
+      "rawWidth": 235,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

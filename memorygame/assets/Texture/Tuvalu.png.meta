@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f02a2105-ca8a-4935-9626-8e4cabeeb7a7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Tuvalu": {
+      "ver": "1.0.3",
+      "uuid": "883665a4-d26d-4422-8b30-35a61fdca20b",
+      "rawTextureUuid": "f02a2105-ca8a-4935-9626-8e4cabeeb7a7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 117,
+      "rawWidth": 235,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

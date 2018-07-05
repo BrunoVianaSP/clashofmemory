@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5f071324-cd5a-41d0-91d7-075b349399e6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Libya": {
+      "ver": "1.0.3",
+      "uuid": "6115e2de-c694-47b8-8028-e5a6df09eaf4",
+      "rawTextureUuid": "5f071324-cd5a-41d0-91d7-075b349399e6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 154,
+      "rawWidth": 236,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d1cbf424-0dab-46df-9646-8dd0e9ca57e3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Zimbabwe": {
+      "ver": "1.0.3",
+      "uuid": "daae0b76-630c-4c31-b8ff-42c2dccb7e6e",
+      "rawTextureUuid": "d1cbf424-0dab-46df-9646-8dd0e9ca57e3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 115,
+      "rawWidth": 235,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

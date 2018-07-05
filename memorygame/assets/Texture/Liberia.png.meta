@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e8b1a95e-6d4b-4dc0-92a8-0d1712d44e79",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Liberia": {
+      "ver": "1.0.3",
+      "uuid": "d6455e0b-c14c-4094-af48-529296a7ecbc",
+      "rawTextureUuid": "e8b1a95e-6d4b-4dc0-92a8-0d1712d44e79",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 117,
+      "rawWidth": 235,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f6a14b5c-923b-482b-ad55-185f930b230c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Grenada": {
+      "ver": "1.0.3",
+      "uuid": "b15d598c-6a26-40fc-b006-0c0db3e69ad0",
+      "rawTextureUuid": "f6a14b5c-923b-482b-ad55-185f930b230c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 138,
+      "rawWidth": 236,
+      "rawHeight": 138,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

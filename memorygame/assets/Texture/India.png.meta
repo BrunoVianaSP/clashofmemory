@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1af2dac3-7627-4fab-ac94-3fde912946f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "India": {
+      "ver": "1.0.3",
+      "uuid": "39d6bc6f-ea89-42a7-b255-434591b3c8b3",
+      "rawTextureUuid": "1af2dac3-7627-4fab-ac94-3fde912946f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 156,
+      "rawWidth": 235,
+      "rawHeight": 156,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

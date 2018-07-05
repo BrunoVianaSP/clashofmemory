@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4a708b7e-431a-4ec3-a713-71ab0fd3bf91",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Dominican_Republic": {
+      "ver": "1.0.3",
+      "uuid": "9a4215f3-59a7-4938-8797-92a183a86d40",
+      "rawTextureUuid": "4a708b7e-431a-4ec3-a713-71ab0fd3bf91",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 154,
+      "rawWidth": 235,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

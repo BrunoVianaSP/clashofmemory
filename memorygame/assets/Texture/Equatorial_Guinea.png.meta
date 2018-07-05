@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a1faa8c8-5a5e-4c0c-a708-fb5969a22c31",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Equatorial_Guinea": {
+      "ver": "1.0.3",
+      "uuid": "e5c4e8f8-9f13-40fc-918b-68977915110c",
+      "rawTextureUuid": "a1faa8c8-5a5e-4c0c-a708-fb5969a22c31",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 157,
+      "rawWidth": 236,
+      "rawHeight": 157,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

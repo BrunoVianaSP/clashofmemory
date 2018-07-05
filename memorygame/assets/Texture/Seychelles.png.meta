@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "433a433f-1d0b-49b5-8b60-e30c5c615d6a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Seychelles": {
+      "ver": "1.0.3",
+      "uuid": "f9a400df-a3aa-4b3f-9979-ea18e3a892cf",
+      "rawTextureUuid": "433a433f-1d0b-49b5-8b60-e30c5c615d6a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 234,
+      "height": 115,
+      "rawWidth": 234,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

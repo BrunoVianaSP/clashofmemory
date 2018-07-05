@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c780282a-b731-4fe8-a880-af7b60ade384",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Sweden": {
+      "ver": "1.0.3",
+      "uuid": "884d17fa-4317-4d39-b361-a570fc2a6af3",
+      "rawTextureUuid": "c780282a-b731-4fe8-a880-af7b60ade384",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 142,
+      "rawWidth": 235,
+      "rawHeight": 142,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

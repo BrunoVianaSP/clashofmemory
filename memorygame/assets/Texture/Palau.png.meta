@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bdd13586-4a01-4276-9e11-ce85569461dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Palau": {
+      "ver": "1.0.3",
+      "uuid": "ac263cb3-31f4-4aa4-9a56-47112a5a00d5",
+      "rawTextureUuid": "bdd13586-4a01-4276-9e11-ce85569461dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 144,
+      "rawWidth": 236,
+      "rawHeight": 144,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

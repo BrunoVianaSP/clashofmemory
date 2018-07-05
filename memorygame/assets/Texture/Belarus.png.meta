@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2fc62676-89c6-4ac0-8e1b-8446d31c89cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Belarus": {
+      "ver": "1.0.3",
+      "uuid": "710b6110-7be8-4d00-a14e-bf11dd801362",
+      "rawTextureUuid": "2fc62676-89c6-4ac0-8e1b-8446d31c89cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 115,
+      "rawWidth": 235,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

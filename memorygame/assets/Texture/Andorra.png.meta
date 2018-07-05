@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "fdb10815-8b5c-4288-9d33-147c35e7f3ab",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Andorra": {
+      "ver": "1.0.3",
+      "uuid": "8fe3b261-618f-4923-8f6a-97e5cb1fa13a",
+      "rawTextureUuid": "fdb10815-8b5c-4288-9d33-147c35e7f3ab",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 155,
+      "rawWidth": 236,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

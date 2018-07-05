@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4f75960d-2616-4e02-bf44-75d00eba1318",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Wallis_and_Futuna": {
+      "ver": "1.0.3",
+      "uuid": "0f346d38-37a9-4ac8-a7ab-df602e214151",
+      "rawTextureUuid": "4f75960d-2616-4e02-bf44-75d00eba1318",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 178,
+      "rawWidth": 235,
+      "rawHeight": 178,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

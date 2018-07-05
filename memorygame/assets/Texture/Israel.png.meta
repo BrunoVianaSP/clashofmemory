@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "99a60096-7aa8-4673-9e94-d2725c23e1de",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Israel": {
+      "ver": "1.0.3",
+      "uuid": "d9a18ff1-0417-469e-8146-163772bd825b",
+      "rawTextureUuid": "99a60096-7aa8-4673-9e94-d2725c23e1de",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 171,
+      "rawWidth": 235,
+      "rawHeight": 171,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

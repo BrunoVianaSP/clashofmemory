@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "50390ce2-ff2f-4bea-a2c1-1025bb590966",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Croatia": {
+      "ver": "1.0.3",
+      "uuid": "9fcd008c-d8b9-487a-b14e-3ada0684b649",
+      "rawTextureUuid": "50390ce2-ff2f-4bea-a2c1-1025bb590966",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 115,
+      "rawWidth": 235,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "60d24c06-a74d-42ce-a122-6192dc6b1d81",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Mauritania": {
+      "ver": "1.0.3",
+      "uuid": "b26c798b-b4e4-436e-8f05-63b5e827804f",
+      "rawTextureUuid": "60d24c06-a74d-42ce-a122-6192dc6b1d81",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 155,
+      "rawWidth": 236,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

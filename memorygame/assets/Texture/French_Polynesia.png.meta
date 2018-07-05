@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "99aeb78f-9b2a-4e14-88d9-92fd837140d5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "French_Polynesia": {
+      "ver": "1.0.3",
+      "uuid": "0dcdfc71-f8c0-4e8a-886e-cffa8a4f321d",
+      "rawTextureUuid": "99aeb78f-9b2a-4e14-88d9-92fd837140d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 154,
+      "rawWidth": 236,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

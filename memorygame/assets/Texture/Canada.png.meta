@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "43981732-526a-4f7a-b465-7f387503bac3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Canada": {
+      "ver": "1.0.3",
+      "uuid": "135837b0-8e65-43e1-98fd-3d7c1dc94478",
+      "rawTextureUuid": "43981732-526a-4f7a-b465-7f387503bac3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 116,
+      "rawWidth": 235,
+      "rawHeight": 116,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

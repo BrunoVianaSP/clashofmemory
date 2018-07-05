@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "809d3354-b558-428b-8641-15a025db896b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Malawi": {
+      "ver": "1.0.3",
+      "uuid": "8eed156e-9ddd-4eb5-9c47-f8e6a4e2b264",
+      "rawTextureUuid": "809d3354-b558-428b-8641-15a025db896b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 156,
+      "rawWidth": 235,
+      "rawHeight": 156,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

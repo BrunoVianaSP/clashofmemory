@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bedd8eff-cb14-4f08-af0b-3f1b84f4421d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Iceland": {
+      "ver": "1.0.3",
+      "uuid": "1e98adf8-b116-4e83-9326-158c4197e958",
+      "rawTextureUuid": "bedd8eff-cb14-4f08-af0b-3f1b84f4421d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 166,
+      "rawWidth": 236,
+      "rawHeight": 166,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

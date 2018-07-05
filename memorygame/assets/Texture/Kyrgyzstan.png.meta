@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "af8dc04f-91fc-454b-9233-0554bfbb729a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Kyrgyzstan": {
+      "ver": "1.0.3",
+      "uuid": "3f7d8515-aba8-4cc4-a707-08d802a10fce",
+      "rawTextureUuid": "af8dc04f-91fc-454b-9233-0554bfbb729a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 139,
+      "rawWidth": 236,
+      "rawHeight": 139,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cd7d9ace-73ee-44e7-b19b-1821c69391a7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Pitcairn_Islands": {
+      "ver": "1.0.3",
+      "uuid": "0eafb40b-9ae0-4c2d-a90f-4af7614b572a",
+      "rawTextureUuid": "cd7d9ace-73ee-44e7-b19b-1821c69391a7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 114,
+      "rawWidth": 236,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

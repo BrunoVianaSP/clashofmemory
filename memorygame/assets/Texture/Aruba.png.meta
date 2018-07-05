@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f2cc7725-111e-4eae-af6c-d516afd79b3f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Aruba": {
+      "ver": "1.0.3",
+      "uuid": "1ce3a7f1-d091-430e-99ed-1f6ebedd6648",
+      "rawTextureUuid": "f2cc7725-111e-4eae-af6c-d516afd79b3f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 154,
+      "rawWidth": 236,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

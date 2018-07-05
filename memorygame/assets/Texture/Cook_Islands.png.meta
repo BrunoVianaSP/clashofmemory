@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "45b4c1ab-f5bb-4116-906b-ee27c3e22bce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Cook_Islands": {
+      "ver": "1.0.3",
+      "uuid": "5c62f952-ff28-4e7b-ad1b-cc3d9d6a51b9",
+      "rawTextureUuid": "45b4c1ab-f5bb-4116-906b-ee27c3e22bce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 117,
+      "rawWidth": 236,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

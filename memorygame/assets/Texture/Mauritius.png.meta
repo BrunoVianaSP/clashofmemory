@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3266af59-2c08-4821-91cb-1db8e3ff5846",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Mauritius": {
+      "ver": "1.0.3",
+      "uuid": "8ebd6ede-f07d-410a-940d-0bc0efe030b1",
+      "rawTextureUuid": "3266af59-2c08-4821-91cb-1db8e3ff5846",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 234,
+      "height": 153,
+      "rawWidth": 234,
+      "rawHeight": 153,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

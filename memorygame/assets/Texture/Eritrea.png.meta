@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9f0a8501-0ee1-405a-9c09-64359a340991",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Eritrea": {
+      "ver": "1.0.3",
+      "uuid": "e80045a0-0db1-4bbd-9513-697e39426cd4",
+      "rawTextureUuid": "9f0a8501-0ee1-405a-9c09-64359a340991",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 234,
+      "height": 152,
+      "rawWidth": 234,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

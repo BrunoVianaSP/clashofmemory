@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "61e5557c-4deb-4468-b2ee-a8508cd6e1f0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Timor-Leste": {
+      "ver": "1.0.3",
+      "uuid": "1ca16a41-01e0-4540-9ce4-7e99e4e50d05",
+      "rawTextureUuid": "61e5557c-4deb-4468-b2ee-a8508cd6e1f0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 117,
+      "rawWidth": 235,
+      "rawHeight": 117,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

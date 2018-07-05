@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e5748a37-9044-47d0-9a42-c67bb8089244",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Chile": {
+      "ver": "1.0.3",
+      "uuid": "2623c1ae-a161-42bd-8331-3fa7278fd8db",
+      "rawTextureUuid": "e5748a37-9044-47d0-9a42-c67bb8089244",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 155,
+      "rawWidth": 236,
+      "rawHeight": 155,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

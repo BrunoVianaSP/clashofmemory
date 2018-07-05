@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ba455a86-c261-499c-9be6-a16eac976538",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Sri_Lanka": {
+      "ver": "1.0.3",
+      "uuid": "2e39459e-c5f4-4680-9d9c-d17a9df4db69",
+      "rawTextureUuid": "ba455a86-c261-499c-9be6-a16eac976538",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 113,
+      "rawWidth": 236,
+      "rawHeight": 113,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

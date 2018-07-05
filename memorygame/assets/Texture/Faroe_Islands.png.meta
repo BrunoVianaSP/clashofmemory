@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "cb2d9be6-cccd-471a-be37-f38ad9e7e096",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Faroe_Islands": {
+      "ver": "1.0.3",
+      "uuid": "c7bb411d-7f17-4702-9d89-9a8758d84a1e",
+      "rawTextureUuid": "cb2d9be6-cccd-471a-be37-f38ad9e7e096",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 168,
+      "rawWidth": 236,
+      "rawHeight": 168,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

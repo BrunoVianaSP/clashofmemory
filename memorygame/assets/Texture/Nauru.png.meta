@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e4495b0e-cc38-4497-868a-5e63b8d92eca",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Nauru": {
+      "ver": "1.0.3",
+      "uuid": "66caacaa-266b-4bea-9e2e-2e17ad19a292",
+      "rawTextureUuid": "e4495b0e-cc38-4497-868a-5e63b8d92eca",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 237,
+      "height": 115,
+      "rawWidth": 237,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

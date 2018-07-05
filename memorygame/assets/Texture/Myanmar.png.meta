@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "dbb48e7f-2396-4a9f-abe5-7702cc9e5862",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Myanmar": {
+      "ver": "1.0.3",
+      "uuid": "6266ceb7-f960-4241-a3f8-28d2243ee5d5",
+      "rawTextureUuid": "dbb48e7f-2396-4a9f-abe5-7702cc9e5862",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 234,
+      "height": 129,
+      "rawWidth": 234,
+      "rawHeight": 129,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

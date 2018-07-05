@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2d556cd7-38bb-472b-87bf-d08e6247f4c8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Cambodia": {
+      "ver": "1.0.3",
+      "uuid": "805ecc28-2709-4fff-839e-936dbca087b0",
+      "rawTextureUuid": "2d556cd7-38bb-472b-87bf-d08e6247f4c8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 154,
+      "rawWidth": 236,
+      "rawHeight": 154,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

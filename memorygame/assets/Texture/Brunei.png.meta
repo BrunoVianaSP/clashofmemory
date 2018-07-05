@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "0239aecb-7664-4ad4-8813-876c97dd55b2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Brunei": {
+      "ver": "1.0.3",
+      "uuid": "dbd73313-56e5-485d-861b-6bffddd41f12",
+      "rawTextureUuid": "0239aecb-7664-4ad4-8813-876c97dd55b2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 114,
+      "rawWidth": 236,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

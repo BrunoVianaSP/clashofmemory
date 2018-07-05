@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9f3aa666-6b39-4f5f-b317-53256aad2f73",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Guatemala": {
+      "ver": "1.0.3",
+      "uuid": "b847d6bc-b6b3-460e-895a-d370bdb59b5f",
+      "rawTextureUuid": "9f3aa666-6b39-4f5f-b317-53256aad2f73",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 235,
+      "height": 144,
+      "rawWidth": 235,
+      "rawHeight": 144,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
